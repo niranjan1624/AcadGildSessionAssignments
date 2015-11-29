@@ -6,4 +6,10 @@
     <string name="title_activity_assignment">Assignment</string>
     <string name="help">Help</string>
     <string name="about">About</string>
+    <string name="text_color">TEXT COLOR</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="Blue">Blue</string>
+    <string name="title_activity_assignment4">Assignment4</string>
+    <string name="action_title">Select Action</string>
 </resources>
